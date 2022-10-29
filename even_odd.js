@@ -1,8 +1,8 @@
 let num = 23;
-if(num%3 ==0)
+if(num%2 ==0)
 {
-console.log("even")
+console.log("even no.")
 }
 else {
-console.log("odd")
+console.log("odd no.")
 }
